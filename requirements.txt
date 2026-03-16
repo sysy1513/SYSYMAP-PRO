@@ -1,6 +1,5 @@
 streamlit
 geopandas
 matplotlib
-pandas
-fiona
 pyproj
+fiona
